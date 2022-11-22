@@ -1,0 +1,34 @@
+@font-face {
+    font-family: principal;
+    src: url(emmasophia.ttf);
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.Tabla{
+    background-color: aqua;
+    margin: 2em auto;
+}	
+
+.tabla1 {
+    background-color: rgb(183, 117, 215, 47%) ;
+    font-family: principal;
+    font-size: 60%;
+    margin: 5em;
+}
+.tabla2 {
+    background-color: rgba(255, 255, 255, 1);
+    width: 60px;
+    height: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+button{
+    background-color: darkblue;
+    color: white;
+    width: 6em;
+    height: 4em;
+}
+
